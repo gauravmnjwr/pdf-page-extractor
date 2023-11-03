@@ -1,5 +1,3 @@
-Sure, here's a sample README file for your GitHub repository for the web application project you described:
-
 # PDF Page Extractor Web Application
 
 This is a web application that allows users to upload a PDF file and extract specific pages to create a new PDF. Users can select the pages they want to include in the new PDF and then download the newly created PDF.
