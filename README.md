@@ -22,7 +22,7 @@ This is a web application that allows users to upload a PDF file and extract spe
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/pdf-page-extractor.git
+git clone https://github.com/gauravmnjwr/pdf-page-extractor.git
 cd pdf-page-extractor
 ```
 
