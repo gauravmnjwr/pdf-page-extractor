@@ -10,12 +10,6 @@ This is a web application that allows users to upload a PDF file and extract spe
 - Create a new PDF based on the selected pages
 - Download the newly created PDF
 
-## Technologies Used
-
-- Frontend: React (with any preferred framework)
-- Backend: Node.js (with any preferred framework)
-- PDF Processing Library: (Specify the library used for PDF processing)
-
 ## Getting Started
 
 ### Prerequisites
